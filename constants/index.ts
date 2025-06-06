@@ -213,21 +213,21 @@ export const PROJECTS = [
     description:
       "A mobile-responsive system for tracking student attendance, built with React, Node.js, and MongoDB. Includes sign-in, sign-up, and role-based dashboards for faculty and students.",
     image: "/projects/attendance-management.png",
-    link: "https://github.com/AnuragMaurya42/attendance-system",
+    link: "https://nitsri-attendance-management-dz4i.onrender.com",
   },
   {
     title: "Anugraam – Instagram Clone",
     description:
       "A social media clone inspired by Instagram. Built using the MERN stack, this project features user authentication, post uploads, likes, comments, and profile management.",
     image: "/projects/anugraam.png",
-    link: "https://github.com/AnuragMaurya42/anugraam",
+    link: "https://anuragaam-app.onrender.com/",
   },
 {
   title: "HisabRakh",
   description:
     "HisabRakh is a personal finance and loan tracking app built with the MERN stack. It allows users to manage expenses, record loans given or taken, set interest rates, track due dates, and view repayment summaries with percentage-based calculations.",
   image: "/projects/hisabrakh.png",
-  link: "https://github.com/AnuragMaurya42/HisabRakh",
+  link: "https://hisab-rakh-e5bo4yytz-anurag-mauryas-projects-22169bfa.vercel.app/",
 },
 
 
@@ -236,7 +236,7 @@ export const PROJECTS = [
     description:
       "A full-featured responsive music player inspired by Spotify using React, CSS, and JavaScript. It offers seamless audio playback, UI interactions, and a beautiful design mirroring the real app experience.",
     image: "/projects/spotify-clone.png",
-    link: "https://github.com/AnuragMaurya42/spotify-clone",
+    link: "https://anuragmaurya42.github.io/spotify__clone/",
   },
 
 {
@@ -254,21 +254,21 @@ export const PROJECTS = [
     description:
       "A terminal-based Python project that simulates a real coffee machine, handling multiple drink orders, tracking resources, and providing a user-friendly CLI experience.",
     image: "/projects/coffee-machine.png",
-    link: "https://github.com/AnuragMaurya42/coffee-machine-simulation",
+    link: "https://github.com/AnuragMaurya42/Coffee-Machine-Project",
   },
   {
     title: "Dog Breed Website",
     description:
       "A frontend project built with HTML, CSS, and JS that showcases different dog breeds with images, descriptions, and fun facts to explore canine diversity.",
     image: "/projects/dog-breed.png",
-    link: "https://github.com/AnuragMaurya42/dog-breed-website",
+    link: "https://anuragmaurya42.github.io/Dog_breed/",
   },
   {
     title: "Weather App",
     description:
       "A real-time weather app built with HTML, CSS, and JavaScript that fetches live weather data using OpenWeatherMap API. Features include temperature, humidity, and weather icons.",
     image: "/projects/weather-app.png",
-    link: "https://github.com/AnuragMaurya42/weather-app",
+    link: "https://anuragmaurya42.github.io/Weather-Forcast/",
   },
 
 
