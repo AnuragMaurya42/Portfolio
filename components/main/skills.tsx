@@ -4,7 +4,6 @@ import { SkillDataProvider } from "@/components/sub/skill-data-provider";
 import { SkillText } from "@/components/sub/skill-text";
 import {
   BACKEND_SKILL,
-  FRONTEND_SKILL,
   FULLSTACK_SKILL,
   OTHER_SKILL,
   SKILL_DATA,
